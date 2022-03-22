@@ -6,6 +6,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+main {
+    display: flex;
+}
+
 header {
     margin-bottom: 154px;
 }
@@ -49,6 +53,11 @@ header {
     height: 193px;
 }
 
+.fondo2 {
+    background-image: url("./img/card2.png");
+    height: 193px;
+}
+
 .corazon {
     padding: 16px 0 0 21px;
 }
@@ -78,5 +87,6 @@ a {
     bottom: 20px;
     position: absolute;
     left: 80px;
+    text-decoration: none;
 
 }
