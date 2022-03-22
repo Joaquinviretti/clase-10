@@ -6,6 +6,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/*propiedad de trampa, pero quedaba prolija (:*/
 main {
     display: flex;
 }
