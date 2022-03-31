@@ -11,7 +11,8 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 header {
@@ -39,9 +40,9 @@ header {
 }
 
 .card {
-    width: 44vw;
+    width: 400px;
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .batman {
